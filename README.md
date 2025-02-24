@@ -45,5 +45,29 @@
 
 ### 2. Cài đặt
 - Cài đặt dependencies
-composer install
- npm install
+- composer install
+- npm install
+- Cấu hình môi trường
+- cp .env.example .env
+- Cập nhật thông tin kết nối database trong file .env:
+- DB_CONNECTION=mysql
+- DB_HOST=127.0.0.1
+- DB_PORT=3306
+- DB_DATABASE=library_management
+- DB_USERNAME=root
+- DB_PASSWORD=your_password
+
+- Tạo key và chạy migrations
+- php artisan key:generate
+- php artisan migrate --seed
+- Chạy ứng dụng
+- php artisan serve
+
+### Tài khoản mẫu 
+### Admin
+- Email: admin@example.com
+- Password: password
+
+### User
+- Email: user@example.com
+- Password: password
