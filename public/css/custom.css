@@ -1,0 +1,21 @@
+/* Tùy chỉnh header */
+header {
+    background-color: black; /* Màu xanh dương */
+}
+
+/* Tùy chỉnh footer */
+footer {
+    background-color: #343a40; /* Màu đen */
+}
+
+/* Tùy chỉnh nút */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
