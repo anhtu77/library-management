@@ -26,6 +26,10 @@
 
 ---
 
+### 5 Sơ đồ chức năng 
+![image](https://github.com/user-attachments/assets/3d961646-071f-4b3b-9860-1ab561aee85d)
+
+
 ## 🛠️ Công nghệ sử dụng
 
 - **Backend**: Laravel (PHP Framework)
