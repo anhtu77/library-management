@@ -66,7 +66,7 @@
 ### Tài khoản mẫu 
 ### Admin
 - Email: admin@example.com
-- Password: password
+- Password: admin123
 
 ### User
 - Email: user@example.com
