@@ -69,5 +69,5 @@
 - Password: admin123
 
 ### User
-- Email: user@example.com
-- Password: password
+- Email: chinh@gmail.com
+- Password: 123456789
